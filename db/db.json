@@ -101,6 +101,21 @@
         "Aventura",
         "Survival Horror"
       ]
+    },
+    {
+      "id": "9",
+      "titulo": "Minecraft",
+      "descricao": " Um jogo de mundo aberto onde você quebra e coloca blocos para construir qualquer coisa e sobreviver à noite. A liberdade é total.",
+      "data_lancamento": "2011-11-18",
+      "idade_recomendada": "Livre",
+      "criador": "Markus \"Notch\" Persson (Mojang)",
+      "categoria": [
+        "Sandbox",
+        "Sobrevivência",
+        "Construção",
+        "Aventura",
+        "Multiplayer"
+      ]
     }
   ]
 }
